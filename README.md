@@ -1,5 +1,8 @@
 # PopularMovies-Part1
 
+## API Notes
+Due to privacy and Terms of Service reasons, the API key has been removed from this repo. To run "PopulraMovies_Part1" application you will need to request API key from https://www.themoviedb.org/account/signup
+
 ## Project Overview
 Most of us can relate to kicking back on the couch and enjoying 
 a movie with friends and family. In this project, you’ll build 
