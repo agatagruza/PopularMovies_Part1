@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Popular Movies</string>
+    <!-- Content description-->
+    <string name="poster_picture_content_description">Poster picture</string>
+    <string name="popular">Most Popular</string>
+    <string name="top_rated">Highest Rated</string>
+    <string name="vote_average">%1$s/10</string>
+</resources>
